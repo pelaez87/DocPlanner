@@ -1,0 +1,6 @@
+@DocPlanner.Availability.API_HostAddress = https://localhost:7139
+
+GET {{DocPlanner.Availability.API_HostAddress}}/Availability/WeekSlots/2024-10-07
+Accept: application/json
+
+###
